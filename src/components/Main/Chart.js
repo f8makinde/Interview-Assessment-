@@ -1,8 +1,6 @@
 import React from "react";
 import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
-// import Typography from "@/components/typography";
-
 var colors = {
   base: "#5570F1", 
   negative: "#EEF0FA",

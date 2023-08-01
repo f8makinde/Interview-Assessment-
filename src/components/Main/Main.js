@@ -79,9 +79,6 @@ export default function Main() {
 
             </div>
           </div>
-          {/* <div>
-
-</div> */}
           <div className="flex md:flex-row flex-col gap-[19px] p-[19px] pt-0">
             <div className="flex flex-col flex-1">
               <div className="bg-white overflow-hidden shadow rounded-lg flex-1 p-5">
